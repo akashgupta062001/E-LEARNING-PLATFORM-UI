@@ -52,3 +52,5 @@ The project structure is modular: HTML files are cleanly separated, CSS is writt
 ---
 
 ## Output
+
+<img width="1341" height="647" alt="Image" src="https://github.com/user-attachments/assets/a18f299b-c972-40c1-adff-af6c7ecc5443" />
